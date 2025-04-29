@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\Age(lab-3-task-3-v-4)\Age\bin\Debug\Age.exe.config
+C:\Users\user1\source\repos\Age(lab-3-task-3-v-4)\Age\bin\Debug\Age.exe
+C:\Users\user1\source\repos\Age(lab-3-task-3-v-4)\Age\bin\Debug\Age.pdb
+C:\Users\user1\source\repos\Age(lab-3-task-3-v-4)\Age\obj\Debug\Age.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Age(lab-3-task-3-v-4)\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Age(lab-3-task-3-v-4)\Age\obj\Debug\Age.exe
+C:\Users\user1\source\repos\Age(lab-3-task-3-v-4)\Age\obj\Debug\Age.pdb

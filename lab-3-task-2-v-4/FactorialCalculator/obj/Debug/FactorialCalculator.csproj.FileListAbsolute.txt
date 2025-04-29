@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\FactorialCalculator(lab-3-task-2-v-4)\FactorialCalculator\bin\Debug\FactorialCalculator.exe.config
+C:\Users\user1\source\repos\FactorialCalculator(lab-3-task-2-v-4)\FactorialCalculator\bin\Debug\FactorialCalculator.exe
+C:\Users\user1\source\repos\FactorialCalculator(lab-3-task-2-v-4)\FactorialCalculator\bin\Debug\FactorialCalculator.pdb
+C:\Users\user1\source\repos\FactorialCalculator(lab-3-task-2-v-4)\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\FactorialCalculator(lab-3-task-2-v-4)\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\FactorialCalculator(lab-3-task-2-v-4)\FactorialCalculator\obj\Debug\FactorialCalculator.exe
+C:\Users\user1\source\repos\FactorialCalculator(lab-3-task-2-v-4)\FactorialCalculator\obj\Debug\FactorialCalculator.pdb

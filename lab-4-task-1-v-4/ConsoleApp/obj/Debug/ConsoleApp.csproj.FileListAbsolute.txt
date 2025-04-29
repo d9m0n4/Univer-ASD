@@ -1,0 +1,7 @@
+C:\Users\user1\source\repos\lab-4-task-1-v-4\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\user1\source\repos\lab-4-task-1-v-4\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\user1\source\repos\lab-4-task-1-v-4\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\user1\source\repos\lab-4-task-1-v-4\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\lab-4-task-1-v-4\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\lab-4-task-1-v-4\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\user1\source\repos\lab-4-task-1-v-4\ConsoleApp\obj\Debug\ConsoleApp.pdb
