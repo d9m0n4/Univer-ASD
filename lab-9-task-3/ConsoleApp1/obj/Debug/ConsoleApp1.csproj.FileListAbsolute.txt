@@ -1,0 +1,7 @@
+C:\Users\d9m0n\source\repos\lab-9-task-3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\d9m0n\source\repos\lab-9-task-3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\d9m0n\source\repos\lab-9-task-3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\d9m0n\source\repos\lab-9-task-3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\d9m0n\source\repos\lab-9-task-3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\d9m0n\source\repos\lab-9-task-3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\d9m0n\source\repos\lab-9-task-3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

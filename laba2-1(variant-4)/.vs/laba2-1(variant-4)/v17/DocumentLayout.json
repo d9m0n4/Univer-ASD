@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53503E-AEE8-461C-B3A6-403D0C8B72D1}|laba2-1(variant-4)\\laba2-1(variant-4).csproj|c:\\users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B53503E-AEE8-461C-B3A6-403D0C8B72D1}|laba2-1(variant-4)\\laba2-1(variant-4).csproj|solutionrelative:laba2-1(variant-4)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53503E-AEE8-461C-B3A6-403D0C8B72D1}|laba2-1(variant-4)\\laba2-1(variant-4).csproj|C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53503E-AEE8-461C-B3A6-403D0C8B72D1}|laba2-1(variant-4)\\laba2-1(variant-4).csproj|solutionrelative:laba2-1(variant-4)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B53503E-AEE8-461C-B3A6-403D0C8B72D1}|laba2-1(variant-4)\\laba2-1(variant-4).csproj|C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B53503E-AEE8-461C-B3A6-403D0C8B72D1}|laba2-1(variant-4)\\laba2-1(variant-4).csproj|solutionrelative:laba2-1(variant-4)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "laba2-1(variant-4)\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\Form1.Designer.cs",
+              "RelativeToolTip": "laba2-1(variant-4)\\Form1.Designer.cs",
+              "ViewState": "AQIAAE8AAAAAaGZmZuYkwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:58:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\Form1.cs",
+              "RelativeDocumentMoniker": "laba2-1(variant-4)\\Form1.cs",
+              "ToolTip": "C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\Form1.cs",
+              "RelativeToolTip": "laba2-1(variant-4)\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:23:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\Form1.cs",
+              "RelativeDocumentMoniker": "laba2-1(variant-4)\\Form1.cs",
+              "ToolTip": "C:\\Users\\d9m0n\\source\\repos\\laba2-1(variant-4)\\laba2-1(variant-4)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "laba2-1(variant-4)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:11:11.809Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

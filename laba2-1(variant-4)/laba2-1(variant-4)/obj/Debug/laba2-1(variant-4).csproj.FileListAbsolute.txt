@@ -1,0 +1,10 @@
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\bin\Debug\laba2-1(variant-4).exe.config
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\bin\Debug\laba2-1(variant-4).exe
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\bin\Debug\laba2-1(variant-4).pdb
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\obj\Debug\laba2-1(variant-4).csproj.AssemblyReference.cache
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\obj\Debug\laba2_1_variant_4_.Form1.resources
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\obj\Debug\laba2_1_variant_4_.Properties.Resources.resources
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\obj\Debug\laba2-1(variant-4).csproj.GenerateResource.cache
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\obj\Debug\laba2-1(variant-4).csproj.CoreCompileInputs.cache
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\obj\Debug\laba2-1(variant-4).exe
+C:\Users\d9m0n\source\repos\laba2-1(variant-4)\laba2-1(variant-4)\obj\Debug\laba2-1(variant-4).pdb
