@@ -65,13 +65,36 @@ namespace ConsoleApp1
             Console.WriteLine("Введите ребра (u v):");
             for (int i = 0; i < e; i++)
             {
-                string[] parts = Console.ReadLine().Split();
-                int u = int.Parse(parts[0]);
-                int w = int.Parse(parts[1]);
+                string input = Console.ReadLine().Trim();
+                string[] parts = input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+                // Проверка корректности ввода
+                if (parts.Length != 2)
+                {
+                    Console.WriteLine("Ошибка! Введите два числа через пробел.");
+                    i--; // Повторяем запрос для текущего ребра
+                    continue;
+                }
+
+                if (!int.TryParse(parts[0], out int u) || !int.TryParse(parts[1], out int w))
+                {
+                    Console.WriteLine("Ошибка! Введите целые числа.");
+                    i--;
+                    continue;
+                }
+
+                // Проверка существования вершин
+                if (u >= v || w >= v || u < 0 || w < 0)
+                {
+                    Console.WriteLine($"Ошибка! Вершины должны быть в диапазоне [0, {v - 1}].");
+                    i--;
+                    continue;
+                }
+
                 graph.AddEdge(u, w);
             }
 
-            Console.Write("Введите начальную вершину для DFS: ");
+                Console.Write("Введите начальную вершину для DFS: ");
             int start = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Результат DFS:");

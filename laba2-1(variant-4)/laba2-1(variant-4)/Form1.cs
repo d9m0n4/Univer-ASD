@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace laba2_1_variant_4_
@@ -19,28 +12,32 @@ namespace laba2_1_variant_4_
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
         }
+
 
         private void btnCheck_Click(object sender, EventArgs e)
         {
-            double x = double.Parse(textX.Text);
-            double y = double.Parse(textY.Text);
-            double r1 = double.Parse(textR1.Text);
-            double r2 = double.Parse(textR2.Text);
-
-            double distance = Math.Sqrt(x * x + y * y);
-
-            if (r1 > r2 && r2 > 0)
+            try
             {
-                if (distance > r2 && distance < r1)
-                    lblResult.Text = "Точка принадлежит кольцу.";
-                else
-                    lblResult.Text = "Точка НЕ принадлежит кольцу.";
+                double x = double.Parse(textX.Text);
+                double y = double.Parse(textY.Text);
+                double r1 = double.Parse(textR1.Text);
+                double r2 = double.Parse(textR2.Text);
+
+                if (r1 <= r2 || r2 <= 0)
+                {
+                    lblResult.Text = "Ошибка: R1 должно быть > R2 > 0";
+                    return;
+                }
+
+                double distanceSquared = x * x + y * y;
+                bool isInRing = (distanceSquared >= r2 * r2) && (distanceSquared <= r1 * r1);
+
+                lblResult.Text = isInRing ? "Точка в кольце" : "Точка вне кольца";
             }
-            else
+            catch
             {
-                lblResult.Text = "Ошибка: R1 должно быть больше R2 и R2 > 0.";
+                lblResult.Text = "Ошибка ввода данных";
             }
         }
     }

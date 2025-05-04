@@ -128,7 +128,7 @@ namespace ConsoleApp1
                 var distances = graph.Dijkstra(start);
                 for (int i = 0; i < distances.Length; i++)
                 {
-                    string dStr = distances[i] == int.MaxValue ? "∞" : distances[i].ToString();
+                    string dStr = distances[i] == int.MaxValue ? "недостижимо" : distances[i].ToString();
                     Console.WriteLine($"до вершины {i + 1}: {dStr}");
                 }
             }
